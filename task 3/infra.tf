@@ -1,6 +1,6 @@
 provider "aws" {
   region  = "ap-south-1"
-  profile = "iamkunal"
+  profile = ""
 }
 
 #creating network VPC
